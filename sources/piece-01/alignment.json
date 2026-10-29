@@ -1,6 +1,11 @@
 {
 	"note": "Where the uploaded encoding's measures were placed. Indices are 0-based: layout measures in score order, file measures in the uploaded file's order, part within a multi-measure rest. pins are the links fixed by hand; matches the resulting placement per layout measure; staves the layout staff per file staff.",
-	"pins": [],
+	"pins": [
+		[
+			34,
+			null
+		]
+	],
 	"matches": [
 		[
 			0,
@@ -138,10 +143,7 @@
 			33,
 			0
 		],
-		[
-			34,
-			0
-		]
+		null
 	],
 	"staves": [
 		1,
