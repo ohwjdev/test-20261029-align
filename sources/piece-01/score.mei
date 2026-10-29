@@ -1109,24 +1109,199 @@
                   <staff xml:id="staff-18" n="18"><layer xml:id="layer-18" n="1"/></staff>
                </measure>
                <measure xml:id="measure-7" n="7" facs="#zone-1-7">
-                  <staff xml:id="staff-19" n="1"><layer xml:id="layer-19" n="1"/></staff>
-                  <staff xml:id="staff-20" n="2"><layer xml:id="layer-20" n="1"/></staff>
-                  <staff xml:id="staff-21" n="3"><layer xml:id="layer-21" n="1"/></staff>
-                  <staff xml:id="staff-22" n="4"><layer xml:id="layer-22" n="1"/></staff>
-                  <staff xml:id="staff-23" n="5"><layer xml:id="layer-23" n="1"/></staff>
-                  <staff xml:id="staff-24" n="6"><layer xml:id="layer-24" n="1"/></staff>
-                  <staff xml:id="staff-25" n="7"><layer xml:id="layer-25" n="1"/></staff>
-                  <staff xml:id="staff-26" n="8"><layer xml:id="layer-26" n="1"/></staff>
-                  <staff xml:id="staff-27" n="9"><layer xml:id="layer-27" n="1"/></staff>
-                  <staff xml:id="staff-28" n="10"><layer xml:id="layer-28" n="1"/></staff>
-                  <staff xml:id="staff-29" n="11"><layer xml:id="layer-29" n="1"/></staff>
-                  <staff xml:id="staff-30" n="12"><layer xml:id="layer-30" n="1"/></staff>
-                  <staff xml:id="staff-31" n="13"><layer xml:id="layer-31" n="1"/></staff>
-                  <staff xml:id="staff-32" n="14"><layer xml:id="layer-32" n="1"/></staff>
-                  <staff xml:id="staff-33" n="15"><layer xml:id="layer-33" n="1"/></staff>
-                  <staff xml:id="staff-34" n="16"><layer xml:id="layer-34" n="1"/></staff>
-                  <staff xml:id="staff-35" n="17"><layer xml:id="layer-35" n="1"/></staff>
-                  <staff xml:id="staff-36" n="18"><layer xml:id="layer-36" n="1"/></staff>
+                  <staff xml:id="m6s1" n="1" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s1l1" n="1">
+                                    <beam xml:id="b00445">
+                                        <note xml:id="n00446" pname="c" oct="6" accid="n" dur="8"/>
+                                        <note xml:id="n00447" pname="g" oct="5" accid="n" dur="8"/>
+                                        <note xml:id="n00448" pname="e" oct="5" dur="8"/>
+                                        <note xml:id="n00449" pname="d" oct="5" dur="8"/>
+                                    </beam>
+                                    <beam xml:id="b00450">
+                                        <note xml:id="n00451" pname="e" oct="5" dur="8"/>
+                                        <note xml:id="n00452" pname="g" oct="5" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00453" pname="c" oct="6" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00454" pname="e" oct="6" dur="8"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s2" n="2" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s2l1" n="1">
+                                    <mRest xml:id="mr00455"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s3" n="3" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s3l1" n="1">
+                                    <beam xml:id="b00456">
+                                        <chord xml:id="c00459" dur="8">
+                                            <note xml:id="n00457" pname="c" oct="5" accid="n"/>
+                                            <note xml:id="n00458" pname="e" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00462" dur="8">
+                                            <note xml:id="n00460" pname="g" oct="4" accid="n"/>
+                                            <note xml:id="n00461" pname="e" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00465" dur="8">
+                                            <note xml:id="n00463" pname="e" oct="4"/>
+                                            <note xml:id="n00464" pname="c" oct="5" accid.ges="n"/>
+                                        </chord>
+                                        <chord xml:id="c00468" dur="8">
+                                            <note xml:id="n00466" pname="d" oct="4"/>
+                                            <note xml:id="n00467" pname="g" oct="4" accid="n"/>
+                                        </chord>
+                                    </beam>
+                                    <beam xml:id="b00469">
+                                        <chord xml:id="c00472" dur="8">
+                                            <note xml:id="n00470" pname="e" oct="4"/>
+                                            <note xml:id="n00471" pname="c" oct="5" accid.ges="n"/>
+                                        </chord>
+                                        <chord xml:id="c00475" dur="8">
+                                            <note xml:id="n00473" pname="g" oct="4" accid.ges="n"/>
+                                            <note xml:id="n00474" pname="e" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00478" dur="8">
+                                            <note xml:id="n00476" pname="c" oct="5" accid.ges="n"/>
+                                            <note xml:id="n00477" pname="e" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00481" dur="8">
+                                            <note xml:id="n00479" pname="e" oct="5"/>
+                                            <note xml:id="n00480" pname="g" oct="5" accid="n"/>
+                                        </chord>
+                                    </beam>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s4" n="4" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s4l1" n="1">
+                                    <beam xml:id="b00482">
+                                        <chord xml:id="c00485" dur="8">
+                                            <note xml:id="n00483" pname="e" oct="5" accid="f"/>
+                                            <note xml:id="n00484" pname="g" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00488" dur="8">
+                                            <note xml:id="n00486" pname="g" oct="5"/>
+                                            <note xml:id="n00487" pname="b" oct="5" accid="f"/>
+                                        </chord>
+                                        <chord xml:id="c00491" dur="8">
+                                            <note xml:id="n00489" pname="e" oct="5" accid.ges="f"/>
+                                            <note xml:id="n00490" pname="g" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00494" dur="8">
+                                            <note xml:id="n00492" pname="b" oct="4" accid="f"/>
+                                            <note xml:id="n00493" pname="f" oct="5"/>
+                                        </chord>
+                                    </beam>
+                                    <beam xml:id="b00495">
+                                        <chord xml:id="c00498" dur="8">
+                                            <note xml:id="n00496" pname="g" oct="4"/>
+                                            <note xml:id="n00497" pname="e" oct="5" accid="f"/>
+                                        </chord>
+                                        <chord xml:id="c00501" dur="8">
+                                            <note xml:id="n00499" pname="b" oct="4" accid.ges="f"/>
+                                            <note xml:id="n00500" pname="g" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00504" dur="8">
+                                            <note xml:id="n00502" pname="e" oct="5" accid.ges="f"/>
+                                            <note xml:id="n00503" pname="g" oct="5"/>
+                                        </chord>
+                                        <chord xml:id="c00507" dur="8">
+                                            <note xml:id="n00505" pname="g" oct="5"/>
+                                            <note xml:id="n00506" pname="b" oct="5" accid.ges="f"/>
+                                        </chord>
+                                    </beam>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s5" n="5" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s5l1" n="1">
+                                    <mRest xml:id="mr00508"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s6" n="6" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s6l1" n="1">
+                                    <mRest xml:id="mr00509"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s7" n="7" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s7l1" n="1">
+                                    <mRest xml:id="mr00510"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s8" n="8" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s8l1" n="1">
+                                    <mRest xml:id="mr00511"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s9" n="9" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s9l1" n="1">
+                                    <mRest xml:id="mr00512"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s10" n="10" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s10l1" n="1">
+                                    <mRest xml:id="mr00513"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s11" n="11" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s11l1" n="1">
+                                    <mRest xml:id="mr00514"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s12" n="12" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s12l1" n="1">
+                                    <mRest xml:id="mr00515"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s13" n="13" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s13l1" n="1">
+                                    <mRest xml:id="mr00516"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s14" n="14" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s14l1" n="1">
+                                    <beam xml:id="b00517">
+                                        <note xml:id="n00518" pname="c" oct="6" accid="n" dur="8"/>
+                                        <note xml:id="n00519" pname="g" oct="5" accid="n" dur="8"/>
+                                        <note xml:id="n00520" pname="e" oct="5" dur="8"/>
+                                        <note xml:id="n00521" pname="d" oct="5" dur="8"/>
+                                    </beam>
+                                    <beam xml:id="b00522">
+                                        <note xml:id="n00523" pname="e" oct="5" dur="8"/>
+                                        <note xml:id="n00524" pname="g" oct="5" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00525" pname="c" oct="6" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00526" pname="e" oct="6" dur="8"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s15" n="15" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s15l1" n="1">
+                                    <beam xml:id="b00527">
+                                        <note xml:id="n00528" pname="c" oct="5" accid="n" dur="8"/>
+                                        <note xml:id="n00529" pname="g" oct="4" accid="n" dur="8"/>
+                                        <note xml:id="n00530" pname="e" oct="4" dur="8"/>
+                                        <note xml:id="n00531" pname="d" oct="4" dur="8"/>
+                                    </beam>
+                                    <beam xml:id="b00532">
+                                        <note xml:id="n00533" pname="e" oct="4" dur="8"/>
+                                        <note xml:id="n00534" pname="g" oct="4" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00535" pname="c" oct="5" accid.ges="n" dur="8"/>
+                                        <note xml:id="n00536" pname="e" oct="5" dur="8"/>
+                                    </beam>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s16" n="16" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s16l1" n="1">
+                                    <mRest xml:id="mr00537"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s17" n="17" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s17l1" n="1">
+                                    <mRest xml:id="mr00538"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m6s18" n="18" resp="#app-uploaded-encoding">
+                                <layer xml:id="m6s18l1" n="1">
+                                    <mRest xml:id="mr00539"/>
+                                </layer>
+                            </staff>
                </measure>
                <pb xml:id="pb-2" n="2" facs="#surface-2"/>
                <measure xml:id="measure-8" n="8" facs="#zone-2-1">
