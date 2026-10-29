@@ -1089,26 +1089,6 @@
                             </staff>
                </measure>
                <measure xml:id="measure-6" n="6" facs="#zone-1-6">
-                  <staff xml:id="staff-1" n="1"><layer xml:id="layer-1" n="1"/></staff>
-                  <staff xml:id="staff-2" n="2"><layer xml:id="layer-2" n="1"/></staff>
-                  <staff xml:id="staff-3" n="3"><layer xml:id="layer-3" n="1"/></staff>
-                  <staff xml:id="staff-4" n="4"><layer xml:id="layer-4" n="1"/></staff>
-                  <staff xml:id="staff-5" n="5"><layer xml:id="layer-5" n="1"/></staff>
-                  <staff xml:id="staff-6" n="6"><layer xml:id="layer-6" n="1"/></staff>
-                  <staff xml:id="staff-7" n="7"><layer xml:id="layer-7" n="1"/></staff>
-                  <staff xml:id="staff-8" n="8"><layer xml:id="layer-8" n="1"/></staff>
-                  <staff xml:id="staff-9" n="9"><layer xml:id="layer-9" n="1"/></staff>
-                  <staff xml:id="staff-10" n="10"><layer xml:id="layer-10" n="1"/></staff>
-                  <staff xml:id="staff-11" n="11"><layer xml:id="layer-11" n="1"/></staff>
-                  <staff xml:id="staff-12" n="12"><layer xml:id="layer-12" n="1"/></staff>
-                  <staff xml:id="staff-13" n="13"><layer xml:id="layer-13" n="1"/></staff>
-                  <staff xml:id="staff-14" n="14"><layer xml:id="layer-14" n="1"/></staff>
-                  <staff xml:id="staff-15" n="15"><layer xml:id="layer-15" n="1"/></staff>
-                  <staff xml:id="staff-16" n="16"><layer xml:id="layer-16" n="1"/></staff>
-                  <staff xml:id="staff-17" n="17"><layer xml:id="layer-17" n="1"/></staff>
-                  <staff xml:id="staff-18" n="18"><layer xml:id="layer-18" n="1"/></staff>
-               </measure>
-               <measure xml:id="measure-7" n="7" facs="#zone-1-7">
                   <staff xml:id="m6s1" n="1" resp="#app-uploaded-encoding">
                                 <layer xml:id="m6s1l1" n="1">
                                     <beam xml:id="b00445">
@@ -1300,6 +1280,354 @@
                   <staff xml:id="m6s18" n="18" resp="#app-uploaded-encoding">
                                 <layer xml:id="m6s18l1" n="1">
                                     <mRest xml:id="mr00539"/>
+                                </layer>
+                            </staff>
+               </measure>
+               <measure xml:id="measure-7" n="7" facs="#zone-1-7">
+                  <staff xml:id="m7s1" n="1" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s1l1" n="1">
+                                    <note xml:id="n00540" pname="e" oct="6" dur="4"/>
+                                    <note xml:id="n00541" pname="g" oct="6" accid="n" dur="4"/>
+                                    <note xml:id="n00542" pname="e" oct="6" dur="4"/>
+                                    <tuplet xml:id="t00543" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00544">
+                                            <note xml:id="n00545" pname="e" oct="6" dur="8"/>
+                                            <note xml:id="n00546" pname="e" oct="6" dur="8"/>
+                                            <note xml:id="n00547" pname="e" oct="6" dur="8"/>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s2" n="2" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s2l1" n="1">
+                                    <rest xml:id="r00548" dur="4"/>
+                                    <note xml:id="n00549" pname="b" oct="5" dur="4"/>
+                                    <note xml:id="n00550" pname="c" oct="6" accid="n" dur="4"/>
+                                    <tuplet xml:id="t00551" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00552">
+                                            <note xml:id="n00553" pname="g" oct="5" accid.ges="s" dur="8"/>
+                                            <note xml:id="n00554" pname="g" oct="5" accid.ges="s" dur="8"/>
+                                            <note xml:id="n00555" pname="g" oct="5" accid.ges="s" dur="8"/>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s3" n="3" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s3l1" n="1">
+                                    <note xml:id="n00556" pname="d" oct="5" dur="4"/>
+                                    <chord xml:id="c00559" dur="4">
+                                        <note xml:id="n00557" pname="e" oct="5"/>
+                                        <note xml:id="n00558" pname="g" oct="5" accid="n"/>
+                                    </chord>
+                                    <chord xml:id="c00562" dur="4">
+                                        <note xml:id="n00560" pname="c" oct="5" accid="n"/>
+                                        <note xml:id="n00561" pname="e" oct="5"/>
+                                    </chord>
+                                    <tuplet xml:id="t00563" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00564">
+                                            <chord xml:id="c00567" dur="8">
+                                                <note xml:id="n00565" pname="b" oct="4"/>
+                                                <note xml:id="n00566" pname="e" oct="5"/>
+                                            </chord>
+                                            <chord xml:id="c00570" dur="8">
+                                                <note xml:id="n00568" pname="b" oct="4"/>
+                                                <note xml:id="n00569" pname="e" oct="5"/>
+                                            </chord>
+                                            <chord xml:id="c00573" dur="8">
+                                                <note xml:id="n00571" pname="b" oct="4"/>
+                                                <note xml:id="n00572" pname="e" oct="5"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s4" n="4" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s4l1" n="1">
+                                    <note xml:id="n00574" pname="f" oct="5" dur="4"/>
+                                    <chord xml:id="c00577" dur="4">
+                                        <note xml:id="n00575" pname="d" oct="5"/>
+                                        <note xml:id="n00576" pname="b" oct="5" accid="f"/>
+                                    </chord>
+                                    <chord xml:id="c00580" dur="4">
+                                        <note xml:id="n00578" pname="b" oct="4" accid="f"/>
+                                        <note xml:id="n00579" pname="g" oct="5"/>
+                                    </chord>
+                                    <tuplet xml:id="t00581" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00582">
+                                            <chord xml:id="c00585" dur="8">
+                                                <note xml:id="n00583" pname="b" oct="4" accid="n"/>
+                                                <note xml:id="n00584" pname="g" oct="5"/>
+                                            </chord>
+                                            <chord xml:id="c00588" dur="8">
+                                                <note xml:id="n00586" pname="b" oct="4" accid.ges="n"/>
+                                                <note xml:id="n00587" pname="g" oct="5"/>
+                                            </chord>
+                                            <chord xml:id="c00591" dur="8">
+                                                <note xml:id="n00589" pname="b" oct="4" accid.ges="n"/>
+                                                <note xml:id="n00590" pname="g" oct="5"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s5" n="5" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s5l1" n="1">
+                                    <rest xml:id="r00592" dur="4"/>
+                                    <chord xml:id="c00595" dur="4">
+                                        <note xml:id="n00593" pname="g" oct="2" accid="n"/>
+                                        <note xml:id="n00594" pname="g" oct="3" accid="n"/>
+                                    </chord>
+                                    <chord xml:id="c00598" dur="4">
+                                        <note xml:id="n00596" pname="c" oct="3" accid="n"/>
+                                        <note xml:id="n00597" pname="g" oct="3" accid.ges="n"/>
+                                    </chord>
+                                    <tuplet xml:id="t00599" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00600">
+                                            <chord xml:id="c00603" dur="8">
+                                                <note xml:id="n00601" pname="e" oct="3"/>
+                                                <note xml:id="n00602" pname="g" oct="3" accid="s"/>
+                                            </chord>
+                                            <chord xml:id="c00606" dur="8">
+                                                <note xml:id="n00604" pname="e" oct="3"/>
+                                                <note xml:id="n00605" pname="g" oct="3" accid.ges="s"/>
+                                            </chord>
+                                            <chord xml:id="c00609" dur="8">
+                                                <note xml:id="n00607" pname="e" oct="3"/>
+                                                <note xml:id="n00608" pname="g" oct="3" accid.ges="s"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s6" n="6" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s6l1" n="1">
+                                    <rest xml:id="r00610" dur="4"/>
+                                    <chord xml:id="c00613" dur="4">
+                                        <note xml:id="n00611" pname="f" oct="4" accid="s"/>
+                                        <note xml:id="n00612" pname="d" oct="5"/>
+                                    </chord>
+                                    <chord xml:id="c00616" dur="4">
+                                        <note xml:id="n00614" pname="g" oct="4"/>
+                                        <note xml:id="n00615" pname="d" oct="5"/>
+                                    </chord>
+                                    <tuplet xml:id="t00617" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00618">
+                                            <chord xml:id="c00621" dur="8">
+                                                <note xml:id="n00619" pname="b" oct="4"/>
+                                                <note xml:id="n00620" pname="d" oct="5" accid="s"/>
+                                            </chord>
+                                            <chord xml:id="c00624" dur="8">
+                                                <note xml:id="n00622" pname="b" oct="4"/>
+                                                <note xml:id="n00623" pname="d" oct="5" accid.ges="s"/>
+                                            </chord>
+                                            <chord xml:id="c00627" dur="8">
+                                                <note xml:id="n00625" pname="b" oct="4"/>
+                                                <note xml:id="n00626" pname="d" oct="5" accid.ges="s"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s7" n="7" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s7l1" n="1">
+                                    <rest xml:id="r00628" dur="4"/>
+                                    <chord xml:id="c00631" dur="4">
+                                        <note xml:id="n00629" pname="d" oct="4"/>
+                                        <note xml:id="n00630" pname="a" oct="4"/>
+                                    </chord>
+                                    <chord xml:id="c00634" dur="4">
+                                        <note xml:id="n00632" pname="d" oct="4"/>
+                                        <note xml:id="n00633" pname="b" oct="4"/>
+                                    </chord>
+                                    <tuplet xml:id="t00635" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00636">
+                                            <chord xml:id="c00639" dur="8">
+                                                <note xml:id="n00637" pname="b" oct="3"/>
+                                                <note xml:id="n00638" pname="b" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00642" dur="8">
+                                                <note xml:id="n00640" pname="b" oct="3"/>
+                                                <note xml:id="n00641" pname="b" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00645" dur="8">
+                                                <note xml:id="n00643" pname="b" oct="3"/>
+                                                <note xml:id="n00644" pname="b" oct="4"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s8" n="8" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s8l1" n="1">
+                                    <rest xml:id="r00646" dur="4"/>
+                                    <chord xml:id="c00649" dur="4">
+                                        <note xml:id="n00647" pname="d" oct="4"/>
+                                        <note xml:id="n00648" pname="a" oct="4"/>
+                                    </chord>
+                                    <chord xml:id="c00652" dur="4">
+                                        <note xml:id="n00650" pname="g" oct="4"/>
+                                        <note xml:id="n00651" pname="b" oct="4"/>
+                                    </chord>
+                                    <tuplet xml:id="t00653" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00654">
+                                            <chord xml:id="c00657" dur="8">
+                                                <note xml:id="n00655" pname="b" oct="3"/>
+                                                <note xml:id="n00656" pname="b" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00660" dur="8">
+                                                <note xml:id="n00658" pname="b" oct="3"/>
+                                                <note xml:id="n00659" pname="b" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00663" dur="8">
+                                                <note xml:id="n00661" pname="b" oct="3"/>
+                                                <note xml:id="n00662" pname="b" oct="4"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s9" n="9" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s9l1" n="1">
+                                    <rest xml:id="r00664" dur="4"/>
+                                    <chord xml:id="c00668" dur="4">
+                                        <note xml:id="n00665" pname="g" oct="2" accid="n"/>
+                                        <note xml:id="n00666" pname="g" oct="3" accid="n"/>
+                                        <note xml:id="n00667" pname="b" oct="3"/>
+                                    </chord>
+                                    <chord xml:id="c00672" dur="4">
+                                        <note xml:id="n00669" pname="c" oct="3" accid="n"/>
+                                        <note xml:id="n00670" pname="e" oct="3"/>
+                                        <note xml:id="n00671" pname="c" oct="4" accid="n"/>
+                                    </chord>
+                                    <rest xml:id="r00673" dur="4"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s10" n="10" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s10l1" n="1">
+                                    <rest xml:id="r00674" dur="2"/>
+                                    <rest xml:id="r00675" dur="4"/>
+                                    <tuplet xml:id="t00676" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00677">
+                                            <note xml:id="n00678" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00679" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00680" pname="e" oct="3" dur="8"/>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s11" n="11" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s11l1" n="1">
+                                    <mRest xml:id="mr00681"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s12" n="12" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s12l1" n="1">
+                                    <mRest xml:id="mr00682"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s13" n="13" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s13l1" n="1">
+                                    <mRest xml:id="mr00683"/>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s14" n="14" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s14l1" n="1">
+                                    <note xml:id="n00684" pname="e" oct="6" dur="4"/>
+                                    <note xml:id="n00685" pname="g" oct="6" accid="n" dur="4"/>
+                                    <note xml:id="n00686" pname="e" oct="6" dur="4"/>
+                                    <tuplet xml:id="t00687" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00688">
+                                            <note xml:id="n00689" pname="e" oct="6" dur="8"/>
+                                            <note xml:id="n00690" pname="e" oct="6" dur="8"/>
+                                            <note xml:id="n00691" pname="e" oct="6" dur="8"/>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s15" n="15" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s15l1" n="1">
+                                    <note xml:id="n00692" pname="d" oct="5" dur="4"/>
+                                    <chord xml:id="c00695" dur="4">
+                                        <note xml:id="n00693" pname="b" oct="4"/>
+                                        <note xml:id="n00694" pname="g" oct="5" accid="n"/>
+                                    </chord>
+                                    <chord xml:id="c00698" dur="4">
+                                        <note xml:id="n00696" pname="c" oct="5" accid="n"/>
+                                        <note xml:id="n00697" pname="e" oct="5"/>
+                                    </chord>
+                                    <tuplet xml:id="t00699" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00700">
+                                            <chord xml:id="c00703" dur="8">
+                                                <note xml:id="n00701" pname="b" oct="4"/>
+                                                <note xml:id="n00702" pname="g" oct="5" accid="s"/>
+                                            </chord>
+                                            <chord xml:id="c00706" dur="8">
+                                                <note xml:id="n00704" pname="b" oct="4"/>
+                                                <note xml:id="n00705" pname="g" oct="5" accid.ges="s"/>
+                                            </chord>
+                                            <chord xml:id="c00709" dur="8">
+                                                <note xml:id="n00707" pname="b" oct="4"/>
+                                                <note xml:id="n00708" pname="g" oct="5" accid.ges="s"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s16" n="16" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s16l1" n="1">
+                                    <rest xml:id="r00710" dur="4"/>
+                                    <chord xml:id="c00713" dur="4">
+                                        <note xml:id="n00711" pname="g" oct="3" accid="n"/>
+                                        <note xml:id="n00712" pname="d" oct="4"/>
+                                    </chord>
+                                    <chord xml:id="c00716" dur="4">
+                                        <note xml:id="n00714" pname="g" oct="3" accid.ges="n"/>
+                                        <note xml:id="n00715" pname="d" oct="4"/>
+                                    </chord>
+                                    <tuplet xml:id="t00717" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00718">
+                                            <chord xml:id="c00721" dur="8">
+                                                <note xml:id="n00719" pname="b" oct="3"/>
+                                                <note xml:id="n00720" pname="e" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00724" dur="8">
+                                                <note xml:id="n00722" pname="b" oct="3"/>
+                                                <note xml:id="n00723" pname="e" oct="4"/>
+                                            </chord>
+                                            <chord xml:id="c00727" dur="8">
+                                                <note xml:id="n00725" pname="b" oct="3"/>
+                                                <note xml:id="n00726" pname="e" oct="4"/>
+                                            </chord>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s17" n="17" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s17l1" n="1">
+                                    <rest xml:id="r00728" dur="4"/>
+                                    <note xml:id="n00729" pname="g" oct="2" accid="n" dur="4"/>
+                                    <note xml:id="n00730" pname="c" oct="3" accid="n" dur="4"/>
+                                    <tuplet xml:id="t00731" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00732">
+                                            <note xml:id="n00733" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00734" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00735" pname="e" oct="3" dur="8"/>
+                                        </beam>
+                                    </tuplet>
+                                </layer>
+                            </staff>
+                  <staff xml:id="m7s18" n="18" resp="#app-uploaded-encoding">
+                                <layer xml:id="m7s18l1" n="1">
+                                    <rest xml:id="r00736" dur="4"/>
+                                    <note xml:id="n00737" pname="g" oct="2" accid="n" dur="4"/>
+                                    <note xml:id="n00738" pname="c" oct="3" accid="n" dur="4"/>
+                                    <tuplet xml:id="t00739" num="3" numbase="2" bracket.visible="false">
+                                        <beam xml:id="b00740">
+                                            <note xml:id="n00741" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00742" pname="e" oct="3" dur="8"/>
+                                            <note xml:id="n00743" pname="e" oct="3" dur="8"/>
+                                        </beam>
+                                    </tuplet>
                                 </layer>
                             </staff>
                </measure>
